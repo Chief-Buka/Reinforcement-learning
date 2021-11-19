@@ -1,5 +1,5 @@
 #Deep Cross Entropy
-
+#https://colab.research.google.com/github/Cheukting/rl_workshop/blob/master/exercises/rl_workshop_deep_crossentropy_method.ipynb
 '''
 Instead of using a table (like for cross entropy use a function)
 Start with random uniform probability for policy
