@@ -1,4 +1,5 @@
 # Cross Entropy
+#https://colab.research.google.com/github/Cheukting/rl_workshop/blob/master/exercises/rl_workshop_crossentropy_method.ipynb
 '''
 Initialize a random probability distribution
 loop:
